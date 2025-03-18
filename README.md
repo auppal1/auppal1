@@ -1,4 +1,4 @@
-~## 👋🏽 Hi there!
+## 👋🏽 Hi there!
 
 # 💫 About Me:
 🔭 Aspiring Data Scientist with sepcial interest in financial technology<br>
