@@ -3,8 +3,8 @@
 # 💫 About Me:
 🔭 Aspiring Data Scientist with sepcial interest in financial technology<br>
 🏫 Studied Computer Science at Newcastle University, UK<br>
-🌱 I’m currently learning the fundamentals of FinTech and future applications<br>
-⚡ Fun fact: currently 1350 elo (rapid) in chess<br>
+🌱 I’m currently studying Finanical Tehcnology with Data Science at the University of Bristol<br>
+⚡ Fun fact: I love watching boxing, my current favourite fighter is Moses Itauma<br>
 
 
 ## 🌐 Socials:
