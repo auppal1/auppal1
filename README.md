@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 Aspiring Quantitive Risk Analyst with special interest in Data Science and AI applications<br>
 🏫 Studied Computer Science at Newcastle University, UK<br>
-🌱 I’m currently studying Finanical Technology with Data Science at the University of Bristol<br>
+🌱 I’m currently studying Financial Technology with Data Science at the University of Bristol<br>
 ⚡ Fun fact: I love watching boxing, my current favourite fighter is Moses Itauma<br>
 
 
